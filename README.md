@@ -35,7 +35,7 @@
 ---
 
 📫 How to reach me:  
-You can DM me here on GitHub or reach me via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kevin-zhang-45801913b/)) (DM for real link).
+You can DM me here on GitHub or reach me via [producthunt](https://www.producthunt.com/@rocktech) (DM for real link).
 
 ---
 🔧 Fun fact:  

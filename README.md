@@ -17,14 +17,12 @@
 ### 🚀 Currently learning:
 - Qt5 / LVGL UI frameworks for embedded HMI
 - Yocto and Buildroot for lightweight Linux system customization
-- Advanced SEO + page authority optimization for technical content
 
 ---
 
 ### 💬 Available for:
 - Collaboration on embedded system design and BSP porting
 - Contributing technical content or guest posts for niche hardware blogs
-- Discussions around SEO/content strategy for developer tools and hardware
 
 ---
 

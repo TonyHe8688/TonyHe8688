@@ -9,7 +9,7 @@
 ### 💻 Currently working on:
 - Customizing Rockchip and Allwinner-based SBCs for industrial applications  
 - Writing drivers for display interfaces (DSI, RGB, HDMI) and touch panels  
-- Maintaining SEO-optimized microsites like:
+- Maintaining microsites like:
   - [embedded-systems](https://embedded-sbc.com/posts/custom-embedded-systems/)
 
 ---
@@ -35,7 +35,7 @@
 ---
 
 📫 How to reach me:  
-You can DM me here on GitHub or reach me via [LinkedIn](https://www.linkedin.com/) (DM for real link).
+You can DM me here on GitHub or reach me via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kevin-zhang-45801913b/)) (DM for real link).
 
 ---
 🔧 Fun fact:  
